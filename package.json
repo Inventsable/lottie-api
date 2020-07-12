@@ -1,6 +1,6 @@
 {
-  "name": "lottie-api",
-  "version": "1.0.3",
+  "name": "lottie-api-updated",
+  "version": "1.0.4",
   "description": "",
   "main": "./dist/lottie_api.js",
   "scripts": {
