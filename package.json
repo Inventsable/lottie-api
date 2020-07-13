@@ -1,6 +1,6 @@
 {
   "name": "lottie-api-updated",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "main": "./dist/lottie_api.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:bodymovin/lottie-api.git"
+    "url": "git@github.com:bodymovin/lottie-api-updated.git"
   },
   "author": "Hernan Torrisi <hernantorrisi@gmail.com> (http://codepen.io/airnan/)",
   "license": "ISC",
